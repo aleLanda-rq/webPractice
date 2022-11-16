@@ -1,0 +1,59 @@
+
+body::before{
+    display: block;
+    content: "";
+    height: 30px;
+}
+.DreamJob{
+    color:#D4FF63
+}
+.cover-btn,.btn-form{
+    background-color: #D4FF63;
+    color:black;
+    padding:10px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+}
+.btn-subscribe{
+    background-color: #D4FF63;
+    color:black;
+    padding:10px;
+    outline: none;
+    border: none;
+}
+.cover-btn:hover,.btn-subscribe:hover{
+    background-color: #b2d854;
+}
+.email__section{
+    background-color: #000000;
+}
+.card-bttn{
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+    border: 1px solid #D4FF63 ;
+    border-radius: 30px;
+    padding:10px;
+    transition: 0.2s;
+}
+.card-bttn:hover{
+    transform: scale(1.1);
+}
+.cards:hover{
+ background-color: #2f2f2f;
+}
+.f1{
+    background-color: rgb(0, 0, 0)
+}
+@media(min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+.images{
+    object-fit: cover;
+    max-width: 150px;
+    min-height: 250px;
+}
