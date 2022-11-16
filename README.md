@@ -1,6 +1,10 @@
 # webPractice
 
 Random Website created using HTML/Css/Bootstrap
+
+View it in the link below
+https://alelanda-rq.github.io/webPractice/
+
 <img width="1347" alt="Screenshot 2022-11-16 at 3 11 03 PM" src="https://user-images.githubusercontent.com/98127121/202295210-fa435cb5-2466-472c-84a6-9ff7442fcbb1.png">
 
 <img width="1326" alt="Screenshot 2022-11-16 at 3 11 33 PM" src="https://user-images.githubusercontent.com/98127121/202295258-9ffd97fe-0d4d-4b58-8ae2-76c56d8e887a.png">
